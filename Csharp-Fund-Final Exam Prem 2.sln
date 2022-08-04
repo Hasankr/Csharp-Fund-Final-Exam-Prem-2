@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Emoji Detector", "02. E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Heroes of Code and Logic VII", "03. Heroes of Code and Logic VII\03. Heroes of Code and Logic VII.csproj", "{CCAD313A-742D-45FF-83A8-A370EF98C6E9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Need for Speed III", "03. Need for Speed III\03. Need for Speed III.csproj", "{720D88F4-224D-4A14-96A4-CD1F8641C8C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{CCAD313A-742D-45FF-83A8-A370EF98C6E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCAD313A-742D-45FF-83A8-A370EF98C6E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCAD313A-742D-45FF-83A8-A370EF98C6E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{720D88F4-224D-4A14-96A4-CD1F8641C8C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{720D88F4-224D-4A14-96A4-CD1F8641C8C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{720D88F4-224D-4A14-96A4-CD1F8641C8C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{720D88F4-224D-4A14-96A4-CD1F8641C8C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
