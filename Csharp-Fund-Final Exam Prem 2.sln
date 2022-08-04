@@ -5,11 +5,13 @@ VisualStudioVersion = 16.0.32126.315
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Activation Keys", "01. Activation Keys\01. Activation Keys.csproj", "{3AA24D28-AD5D-4877-B5EC-53828B562D9F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Emoji Detector", "02. Emoji Detector\02. Emoji Detector.csproj", "{08108EE2-ACD9-4B92-9FAB-B761DDCFF66C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Emoji Detector", "02. Emoji Detector\02. Emoji Detector.csproj", "{08108EE2-ACD9-4B92-9FAB-B761DDCFF66C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Heroes of Code and Logic VII", "03. Heroes of Code and Logic VII\03. Heroes of Code and Logic VII.csproj", "{CCAD313A-742D-45FF-83A8-A370EF98C6E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Heroes of Code and Logic VII", "03. Heroes of Code and Logic VII\03. Heroes of Code and Logic VII.csproj", "{CCAD313A-742D-45FF-83A8-A370EF98C6E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Need for Speed III", "03. Need for Speed III\03. Need for Speed III.csproj", "{720D88F4-224D-4A14-96A4-CD1F8641C8C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Need for Speed III", "03. Need for Speed III\03. Need for Speed III.csproj", "{720D88F4-224D-4A14-96A4-CD1F8641C8C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.DestinationMapper", "05.DestinationMapper\05.DestinationMapper.csproj", "{21E76800-218B-4704-A122-615BC382DF19}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{720D88F4-224D-4A14-96A4-CD1F8641C8C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{720D88F4-224D-4A14-96A4-CD1F8641C8C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{720D88F4-224D-4A14-96A4-CD1F8641C8C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21E76800-218B-4704-A122-615BC382DF19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21E76800-218B-4704-A122-615BC382DF19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21E76800-218B-4704-A122-615BC382DF19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21E76800-218B-4704-A122-615BC382DF19}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
